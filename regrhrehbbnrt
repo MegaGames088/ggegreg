@@ -6257,7 +6257,7 @@ function Checkerhub_Main:Window(config)
             MainFrame.Visible = t
         end, {
             {
-                key = Enum.KeyCode.LeftControl,
+                key = Enum.KeyCode.RightShift,
                 Toggled = true
             }
         })
@@ -6291,7 +6291,7 @@ function Checkerhub_Main:Window(config)
 
         Checkerhub_Main:Notify({
             Title = "Welcome",
-            Text = "Menu Key | LeftControl",
+            Text = "Menu Key | RightShift",
             Time = 2
         })
 
