@@ -900,7 +900,7 @@ function Checkerhub_Main:Window(config)
     local MainFrameGlow = Instance.new("ImageLabel")
 
 
-    local MenuToggled = false
+    local MenuToggled = true
 
     MakeDraggable(MainFrame, MainFrame)
 
