@@ -22,8 +22,8 @@ local Checkerhub_Main = {
     Theme = {
         Custom = {
             Background = Color3.fromRGB(9, 9, 13),
-            Section = Color3.fromRGB(0, 20, 40),
-            Element = Color3.fromRGB(61, 133, 224),
+            Section = Color3.fromRGB(173, 255, 47),
+            Element = Color3.fromRGB(0, 128, 0),
             Text = Color3.fromRGB(255,255,255),
             Glow = Color3.fromRGB(14, 191, 255)
         }
